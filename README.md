@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Projeto API - Gerenciamento de Usuários
 
 Um projeto de API para gerenciamento de usuários, utilizando Node.js, Express, Prisma e MongoDB.
 
